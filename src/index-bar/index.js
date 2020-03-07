@@ -241,7 +241,6 @@ export default createComponent({
           style={this.sidebarStyle}
           onClick={this.onClick}
           onTouchstart={this.touchStart}
-          onTouchmove={this.onTouchMove}
           onTouchend={this.onTouchEnd}
           onTouchcancel={this.onTouchEnd}
         >

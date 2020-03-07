@@ -1,5 +1,5 @@
 {
-  "name": "vant",
+  "name": "vant-xiaocheng",
   "version": "2.5.3",
   "description": "Mobile UI Components built on Vue",
   "main": "lib/index.js",
@@ -45,7 +45,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:youzan/vant.git"
+    "url": "git@github.com:Rayure/vant.git"
   },
   "keywords": [
     "vue",
